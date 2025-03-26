@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace Task_3
 {
     internal class Program
     {
@@ -22,7 +22,7 @@
         //    string str1 = "Karim", str2 = "Mahmoud";
         //    Console.WriteLine($"Before Swap: str1 = {str1}, str2 = {str2}");
         //    Swap(ref str1, ref str2);
-        //    Console.WriteLine($"After Swap: str1 = {str1}, str2 = {str2}\n");
+        //    Console.WriteLine($"After Swap: str1 = {str1}, str2 = {str2}");
         //}
         #endregion
 
@@ -36,7 +36,7 @@
         //    }
         //    else
         //    {
-        //        Console.WriteLine($"Student {name} not found.");
+        //        Console.WriteLine($"Student {name} not found");
         //    }
         //}
 

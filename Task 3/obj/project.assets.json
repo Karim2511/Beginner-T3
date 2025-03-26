@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj",
+      "projectName": "Task 3",
+      "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj",
       "packagesPath": "C:\\Users\\karim_gu2i2tx\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

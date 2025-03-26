@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\ConsoleApp1.csproj": {}
+    "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj": {}
   },
   "projects": {
-    "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\ConsoleApp1.csproj": {
+    "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj",
+        "projectName": "Task 3",
+        "projectPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Task 3.csproj",
         "packagesPath": "C:\\Users\\karim_gu2i2tx\\.nuget\\packages\\",
         "outputPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\obj\\",
         "projectStyle": "PackageReference",

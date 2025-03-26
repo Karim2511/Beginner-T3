@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\",
+  "WorkspaceRootPath": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2449626F-42B8-4B5E-9549-32A2E2D68337}|ConsoleApp1.csproj|d:\\.net\\cat\\tasks\\beginner-t3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2449626F-42B8-4B5E-9549-32A2E2D68337}|ConsoleApp1.csproj|d:\\.net\\cat\\tasks\\beginner-t3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2449626F-42B8-4B5E-9549-32A2E2D68337}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\.Net\\CAT\\Tasks\\Beginner-T3\\Task 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T22:21:06.164Z",
               "EditorCaption": ""
